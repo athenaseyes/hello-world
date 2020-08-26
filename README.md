@@ -1,6 +1,7 @@
 # hello-world
 Howdy Hola Bonjour Guten Tag
 
-That's right: hello! 
 
-...Ok, see ya, silly!  
+...um...
+
+...ok, see ya later, silly!  
